@@ -1,0 +1,43 @@
+ #about {
+     width: 100%;
+     height: 100vh;
+ }
+
+ .about_container {
+     width: 100%;
+     height: 100%;
+     display: flex;
+     background-color: antiquewhite;
+ }
+
+ .left {
+     width: 50%;
+     height: 50%;
+     position: relative;
+     left: 6%;
+     padding-top: 175px;
+ }
+
+ .about_heading {
+     font-size: 3rem;
+     margin: 0%;
+ }
+
+ .about_heading span {
+     color: gold;
+ }
+
+ .about_para {
+     line-height: 20px;
+     font-weight: 500;
+ }
+
+ .right {
+     width: 50%;
+     height: 50%;
+ }
+
+ .right img {
+     width: 70%;
+     padding-left: 50px;
+ }
